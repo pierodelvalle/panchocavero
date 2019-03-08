@@ -1,0 +1,13 @@
+{
+  "name": "pancho_cavero",
+  "version": "1.0.0",
+  "description": "a wordpress theme for peruvian veterinarian pancho cavero",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pierodelvalle",
+  "license": "ISC"
+}
